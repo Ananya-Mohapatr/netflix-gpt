@@ -14,6 +14,20 @@
 - Created redux store with userSlice.
 - Implemented Sign out
 - Update profile
+- Bugfix- Sign up user displayName and profilepicture update
+- Bugfix- Redirect to login page whenever user only tries to access /browser
+- Unsubscribed to the onAuthStateChanged callback in header useEffect function.
+- Add hardcoded values to constant files
+- Registered TMDB api and create an app & get access token.
+- Get data from tmdb api 
+- Custom hooks for Now playing movies
+- Update store with movie data.
+- Planning for main and secondary container
+- Fetch data for trailer video
+- Update store with trailer video data
+- Embedded Youtube video with key id
+- Tailwind classes to design main container.
+
 
 
 
