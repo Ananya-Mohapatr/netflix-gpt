@@ -27,6 +27,12 @@
 - Update store with trailer video data
 - Embedded Youtube video with key id
 - Tailwind classes to design main container.
+- Build secondary component
+- Build Movie list
+- Build Movie Cards
+- TMDB Image cdn url
+- Made the browser page amazing with tailwind css
+- usePopularMovies Custom hooks
 
 
 
